@@ -61,7 +61,7 @@
 
 - 使用 git 进行pull request时，请注明所属内容与Question内容
 
-  > 如果你还不太熟练git的话，可以学习[Git快速入门]()
+  > 如果你还不太熟练git的话，可以参考[廖雪峰的Git教程](https://www.liaoxuefeng.com/wiki/896043488029600)
 
 - 代码规范可以参考[《Google 开源项目风格指南》](https://zh-google-styleguide.readthedocs.io/en/latest/google-python-styleguide/contents/)
 
