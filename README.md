@@ -1,12 +1,15 @@
-# MachineLearning-Question-zh
+# MachineLearning-Questions-zh
 [中文](README.md)|[English](README-en.md)
 
 ## 介绍
 
 - 收集日常所遇到的有关机器学习，数学算法，自然语言处理相关分问题与解答。
+- 汇总收集各大数据挖掘比赛的[TOP解决方案](12_比赛Top解决方案汇总/README.md)
 - 更新最新学术研究的论文与前沿热点。
 - 你可以在这里进行提问或者直接回答补充已有的问题
 - 欢迎各位AI爱好者pull ur question or answer。
+
+**期待你的贡献,也希望MachineLearning-Questions能够为你带来帮助。**
 
 ## 文档规范
 
