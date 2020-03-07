@@ -14,7 +14,7 @@
 
 - 优先建议使用 MarkDown 语法进行编辑，推荐[Typora](https://typora.io/)软件
 
-  > - 如果你现在还未掌握MarkDown，这里推荐你参考[MarkDown快速入门.md](00入门必备/MarkDown快速入门.md)
+  > - 如果你现在还未掌握MarkDown，这里推荐你参考[MarkDown快速入门.md](00_入门必备/MarkDown快速入门.md)
   > - markdown 请严格按照语法规范进行缩进与使用恰当的标题。
   > - 英文前后应留有一个空格
 
