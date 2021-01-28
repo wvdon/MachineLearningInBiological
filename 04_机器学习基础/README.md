@@ -17,4 +17,5 @@
 | 04.1 机器学习 深度学习 人工智能的区别与联系 | 提出问题 <br />提交答案 [Wvdon 's Github](https://github.com/wvdon) |
 | 04.2 常用的损失函数(loss)                   | 提出问题 [E-mail](mail@wvdon.com)                            |
 | 04.3 为什么需要对数值类型的特征做归一化     | 提出问题<br />提交答案 wvdon                                 |
+| 04.4 数据预处理时，怎样处理类别型特征       | 提出问题<br />提交答案 wvdon                                 |
 
